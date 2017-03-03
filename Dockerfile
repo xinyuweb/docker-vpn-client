@@ -1,1 +1,1 @@
-FROM vimagick/pptp
+FROM gzm55/vpn-client
